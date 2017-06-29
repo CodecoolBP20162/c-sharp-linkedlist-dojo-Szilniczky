@@ -1,0 +1,15 @@
+C:\Users\Szilniczky\Documents\Visual Studio 2017\Projects\Dojo\LinkedList\c-sharp-linkedlist-dojo-Szilniczky\LinkedList\LinkedListTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Szilniczky\Documents\Visual Studio 2017\Projects\Dojo\LinkedList\c-sharp-linkedlist-dojo-Szilniczky\LinkedList\LinkedListTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Szilniczky\Documents\Visual Studio 2017\Projects\Dojo\LinkedList\c-sharp-linkedlist-dojo-Szilniczky\LinkedList\LinkedListTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Szilniczky\Documents\Visual Studio 2017\Projects\Dojo\LinkedList\c-sharp-linkedlist-dojo-Szilniczky\LinkedList\LinkedListTests\bin\Debug\LinkedListTests.dll
+C:\Users\Szilniczky\Documents\Visual Studio 2017\Projects\Dojo\LinkedList\c-sharp-linkedlist-dojo-Szilniczky\LinkedList\LinkedListTests\bin\Debug\LinkedListTests.pdb
+C:\Users\Szilniczky\Documents\Visual Studio 2017\Projects\Dojo\LinkedList\c-sharp-linkedlist-dojo-Szilniczky\LinkedList\LinkedListTests\bin\Debug\LinkedList.exe
+C:\Users\Szilniczky\Documents\Visual Studio 2017\Projects\Dojo\LinkedList\c-sharp-linkedlist-dojo-Szilniczky\LinkedList\LinkedListTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Szilniczky\Documents\Visual Studio 2017\Projects\Dojo\LinkedList\c-sharp-linkedlist-dojo-Szilniczky\LinkedList\LinkedListTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Szilniczky\Documents\Visual Studio 2017\Projects\Dojo\LinkedList\c-sharp-linkedlist-dojo-Szilniczky\LinkedList\LinkedListTests\bin\Debug\LinkedList.pdb
+C:\Users\Szilniczky\Documents\Visual Studio 2017\Projects\Dojo\LinkedList\c-sharp-linkedlist-dojo-Szilniczky\LinkedList\LinkedListTests\bin\Debug\LinkedList.exe.config
+C:\Users\Szilniczky\Documents\Visual Studio 2017\Projects\Dojo\LinkedList\c-sharp-linkedlist-dojo-Szilniczky\LinkedList\LinkedListTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Szilniczky\Documents\Visual Studio 2017\Projects\Dojo\LinkedList\c-sharp-linkedlist-dojo-Szilniczky\LinkedList\LinkedListTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Szilniczky\Documents\Visual Studio 2017\Projects\Dojo\LinkedList\c-sharp-linkedlist-dojo-Szilniczky\LinkedList\LinkedListTests\obj\Debug\LinkedListTests.csprojResolveAssemblyReference.cache
+C:\Users\Szilniczky\Documents\Visual Studio 2017\Projects\Dojo\LinkedList\c-sharp-linkedlist-dojo-Szilniczky\LinkedList\LinkedListTests\obj\Debug\LinkedListTests.dll
+C:\Users\Szilniczky\Documents\Visual Studio 2017\Projects\Dojo\LinkedList\c-sharp-linkedlist-dojo-Szilniczky\LinkedList\LinkedListTests\obj\Debug\LinkedListTests.pdb
